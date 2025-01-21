@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+.card{
+	padding: 50px;
+}
+
+.h1{
+	color:#000000;
+	font-weight:500;
+}
+.p{
+	font-weight:400;
+}
+.button{
+	background-color: red;
+	color: #ffffff;
+}
